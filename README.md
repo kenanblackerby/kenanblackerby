@@ -1,7 +1,7 @@
 ### Hi there, I'm Kenan [website]👋
 
 ## I'm a Developer and Bibliophile
-- 🔭 I’m currently working on my portfolio website 
+- 🔭 I’m currently working on simple applications to practice my CSS skills
 - 🌱 I’m currently learning Front End technologies and best practices
 - 👯 I’m looking to find an exciting open source project to join 
 - 🥅 Goals: Refine my skills on a daily basis
